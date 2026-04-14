@@ -1,2 +1,9 @@
+# cache files and dirs
+**/__pycache__
+
+# env vars
 .venv
+
+# temporary files
+dev.md
 
